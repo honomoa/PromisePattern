@@ -1,0 +1,15 @@
+{
+  "name": "PromisePattern",
+  "version": "0.0.1",
+  "description": "Promise pattern",
+  "author": "Moa Chung",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {
+    "MoaLog": "github:honomoa/MoaLog"
+  },
+  "scripts": {
+    "test": "NODE_PATH=. node --harmony test/index.js",
+    "": ""
+  }
+}
