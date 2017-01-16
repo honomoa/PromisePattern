@@ -1,4 +1,4 @@
 'use strict';
 
-module.exports = require('lib/PromisePattern');
+module.exports = require('./lib/PromisePattern');
 
