@@ -6,7 +6,8 @@
   "private": false,
   "main": "index.js",
   "dependencies": {
-    "MoaLog": "github:honomoa/MoaLog"
+    "MoaLog": "github:honomoa/MoaLog",
+    "lodash": "^4.17.4"
   },
   "scripts": {
     "test": "NODE_PATH=. node --harmony test/index.js",
