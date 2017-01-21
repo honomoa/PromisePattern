@@ -12,5 +12,8 @@
   "scripts": {
     "test": "NODE_PATH=. node --harmony test/index.js",
     "": ""
+  },
+  "devDependencies": {
+    "lodash": "^4.17.4"
   }
 }
