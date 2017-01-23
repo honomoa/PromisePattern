@@ -10,7 +10,8 @@
     "lodash": "^4.17.4"
   },
   "scripts": {
-    "test": "NODE_PATH=. node --harmony test/index.js",
+    "run": "node --harmony",
+    "test": "NODE_PATH=. npm run run -- test/index.js",
     "": ""
   },
   "devDependencies": {

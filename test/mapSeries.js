@@ -6,7 +6,7 @@ const PromisePattern = require('index');
 var arr = [
   {k: {k: '1'}},
   {k: {k: '2'}},
-  {k: null},
+  {k: {k: '3'}},
   {k: {k: '4'}},
   {k: {k: '5'}},
 ];
