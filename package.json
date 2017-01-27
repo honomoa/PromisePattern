@@ -6,7 +6,7 @@
   "private": false,
   "main": "index.js",
   "dependencies": {
-    "MoaLog": "github:honomoa/MoaLog",
+    "MoaLog": "github:honomoa/MoaLog#1.0.0",
     "lodash": "^4.17.4"
   },
   "scripts": {
